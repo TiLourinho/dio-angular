@@ -48,7 +48,7 @@ function inputAndOutput(): void {
   console.log(input[9]);
 }
 
-inputAndOutput();
+// inputAndOutput();
 
 /*
 Desafio 2 - Coordenadas de um Ponto
@@ -101,7 +101,7 @@ function pointCoordinates(): void {
   }
 }
 
-pointCoordinates();
+// pointCoordinates();
 
 /*
 Desafio 3 - A Idade de Magali
@@ -146,7 +146,10 @@ function magalisAge(): void {
   const B = Number(prompt("Digite a idade de um outro filho: "));
 
   const C = M - (A + B);
-  const result = Math.max(A, B, C);
+
+  let result = A;
+  if (result < B) result = B;
+  if (result < C) result = C;
 
   console.log(`\nA idade do filho mais velho é ${result}`);
 }

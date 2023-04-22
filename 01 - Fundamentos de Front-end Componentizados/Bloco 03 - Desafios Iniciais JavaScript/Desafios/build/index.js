@@ -50,7 +50,7 @@ function inputAndOutput() {
 /*
 Desafio 2 - Coordenadas de um Ponto
 
-Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenadas de um ponto em um plano.
+Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenadas de um ponto em um plano. Vide a imagem "plano.png".
 A seguir, determine qual o quadrante ao qual pertence o ponto, ou se está sobre um dos eixos cartesianos ou na origem (x = y = 0).
 
 Se o ponto estiver na origem, escreva a mensagem “Origem”.
@@ -136,7 +136,11 @@ function magalisAge() {
     const A = Number(prompt("Digite a idade de um filho: "));
     const B = Number(prompt("Digite a idade de um outro filho: "));
     const C = M - (A + B);
-    const result = Math.max(A, B, C);
+    let result = A;
+    if (result < B)
+        result = B;
+    if (result < C)
+        result = C;
     console.log(`\nA idade do filho mais velho é ${result}`);
 }
 magalisAge();
