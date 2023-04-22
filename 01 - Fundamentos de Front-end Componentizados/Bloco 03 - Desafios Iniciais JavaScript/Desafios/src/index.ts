@@ -48,7 +48,7 @@ function inputAndOutput(): void {
   console.log(input[9]);
 }
 
-// inputAndOutput();
+inputAndOutput();
 
 /*
 Desafio 2 - Coordenadas de um Ponto
@@ -101,7 +101,7 @@ function pointCoordinates(): void {
   }
 }
 
-// pointCoordinates();
+pointCoordinates();
 
 /*
 Desafio 3 - A Idade de Magali
