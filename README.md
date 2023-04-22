@@ -17,6 +17,8 @@
 
 #### Bloco 2 - TypeScript para Angular:
 
+- [X] [Seção 1 - _Fundamentos do TypeScript_](https://github.com/TiLourinho/dio-angular/tree/main/01%20-%20Fundamentos%20de%20Front-end%20Componentizados/Bloco%2002%20-%20TypeScript%20para%20Angular/Se%C3%A7%C3%A3o%2001%20-%20Fundamentos%20do%20TypeScript)
+
 <hr>
 <a href="https://www.dio.me/">
  <p align="center">
