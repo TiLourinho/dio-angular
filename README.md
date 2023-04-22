@@ -13,11 +13,11 @@
 
 #### Bloco 1 - Trabalhando com Web Components no Front-end:
 
-- [X] [Seção 1 - _Criando Componentes_](https://github.com/TiLourinho/dio-angular/tree/main/01%20-%20Fundamentos%20de%20Front-end%20Componentizados/Bloco%2001%20-%20Trabalhando%20com%20Web%20Components%20no%20Front-end/Se%C3%A7%C3%A3o%2001%20-%20Criando%20Componentes)
+- [X] [Seção 1: _Criando Componentes_](https://github.com/TiLourinho/dio-angular/tree/main/01%20-%20Fundamentos%20de%20Front-end%20Componentizados/Bloco%2001%20-%20Trabalhando%20com%20Web%20Components%20no%20Front-end/Se%C3%A7%C3%A3o%2001%20-%20Criando%20Componentes)
 
 #### Bloco 2 - TypeScript para Angular:
 
-- [X] [Seção 1 - _Fundamentos do TypeScript_](https://github.com/TiLourinho/dio-angular/tree/main/01%20-%20Fundamentos%20de%20Front-end%20Componentizados/Bloco%2002%20-%20TypeScript%20para%20Angular/Se%C3%A7%C3%A3o%2001%20-%20Fundamentos%20do%20TypeScript)
+- [X] [Seção 1: _Fundamentos do TypeScript_](https://github.com/TiLourinho/dio-angular/tree/main/01%20-%20Fundamentos%20de%20Front-end%20Componentizados/Bloco%2002%20-%20TypeScript%20para%20Angular/Se%C3%A7%C3%A3o%2001%20-%20Fundamentos%20do%20TypeScript)
 
 <hr>
 <a href="https://www.dio.me/">
