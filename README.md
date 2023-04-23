@@ -9,7 +9,7 @@
 <p align="center"><i>Desenvolva-se em um dos frameworks mais requisitados no mercado quando o assunto é <strong>Single Page Application (SPA)</strong>. Nesta formação, você irá criar projetos de grande escala com Angular, explorando o poder de se trabalhar com um front end componentizado. Neste contexto, será explorada as particularidades deste framework como data binds, consumo de API de maneira simplificada, boas práticas de organização de projetos e muito mais. Tudo isso sendo praticado em soluções totalmente desacopladas.</i></p>
 <hr>
 
-## Fundamentos de Front-end Componentizados :hourglass_flowing_sand:
+## Fundamentos de Front-end Componentizados :white_check_mark:
 
 #### Bloco 1 - Trabalhando com Web Components no Front-end:
 
