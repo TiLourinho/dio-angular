@@ -31,7 +31,7 @@
 
 #### Bloco 2 - LyfeCycle Hooks Angular:
 
-- [ ] [Seção 1: _LyfeCycle Hooks_]
+- [ ] [Seção 1: _LyfeCycle Hooks_]()
 
 <hr>
 <a href="https://www.dio.me/">
