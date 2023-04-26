@@ -1,0 +1,10 @@
+<input
+  type="text"
+  [value]=""
+  (input)="placeholder = $any($event.target).value"
+  placeholder="E-mail"
+/>
+<p [style.color]="color">{{ placeholder }}</p>
+
+<input type="text" [(ngModel)]="placepass" placeholder="Password" />
+<p [style.color]="color">{{ placepass }}</p>
