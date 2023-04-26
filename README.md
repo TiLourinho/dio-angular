@@ -23,6 +23,16 @@
 
 - [X] [_Desafios Iniciais JavaScript_](https://github.com/TiLourinho/dio-angular/tree/main/01%20-%20Fundamentos%20de%20Front-end%20Componentizados/Bloco%2003%20-%20Desafios%20Iniciais%20JavaScript)
 
+## Introdução ao Angular :hourglass_flowing_sand:
+
+#### Bloco 1 - Trabalhando com Componentes Angular:
+
+- [X] [Seção 1: _Componentes Angular_](https://github.com/TiLourinho/dio-angular/tree/main/02%20-%20Introdu%C3%A7%C3%A3o%20ao%20Angular/Bloco%2001%20-%20Trabalhando%20com%20Componentes%20Angular/Se%C3%A7%C3%A3o%2001%20-%20Componentes%20Angular)
+
+#### Bloco 2 - LyfeCycle Hooks Angular:
+
+- [ ] [Seção 1: _LyfeCycle Hooks_]
+
 <hr>
 <a href="https://www.dio.me/">
  <p align="center">
