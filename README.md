@@ -31,7 +31,11 @@
 
 #### Bloco 2 - LyfeCycle Hooks Angular:
 
-- [ ] [Seção 1: _LyfeCycle Hooks_]()
+- [X] [Seção 1: _LyfeCycle Hooks_](https://github.com/TiLourinho/dio-angular/tree/main/02%20-%20Introdu%C3%A7%C3%A3o%20ao%20Angular/Bloco%2002%20-%20LifeCycle%20Hooks%20Angular/Se%C3%A7%C3%A3o%2001%20-%20LifeCycle%20Hooks)
+
+#### Bloco 3 - Desafios de Código:
+
+- [ ] [_Desafios Intermediários JavaScript_]()
 
 <hr>
 <a href="https://www.dio.me/">
