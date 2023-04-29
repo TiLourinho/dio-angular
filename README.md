@@ -23,7 +23,7 @@
 
 - [X] [_Desafios Iniciais JavaScript_](https://github.com/TiLourinho/dio-angular/tree/main/01%20-%20Fundamentos%20de%20Front-end%20Componentizados/Bloco%2003%20-%20Desafios%20Iniciais%20JavaScript)
 
-## Introdução ao Angular :hourglass_flowing_sand:
+## Introdução ao Angular :white_check_mark:
 
 #### Bloco 1 - Trabalhando com Componentes Angular:
 
@@ -35,7 +35,9 @@
 
 #### Bloco 3 - Desafios de Código:
 
-- [ ] [_Desafios Intermediários JavaScript_]()
+- [X] [_Desafios Intermediários JavaScript_](https://github.com/TiLourinho/dio-angular/tree/main/02%20-%20Introdu%C3%A7%C3%A3o%20ao%20Angular/Bloco%2003%20-%20Desafios%20Intermedi%C3%A1rios%20JavaScript)
+
+## Single Page Application com Angular :hourglass_flowing_sand:
 
 <hr>
 <a href="https://www.dio.me/">
