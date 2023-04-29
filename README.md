@@ -39,6 +39,10 @@
 
 ## Single Page Application com Angular :hourglass_flowing_sand:
 
+#### Bloco 1 - Single Page Application:
+
+- [ ] [Seção 1: _Diretivas_]()
+
 <hr>
 <a href="https://www.dio.me/">
  <p align="center">
