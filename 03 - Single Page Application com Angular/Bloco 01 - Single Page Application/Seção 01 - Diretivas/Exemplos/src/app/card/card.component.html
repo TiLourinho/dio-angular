@@ -1,1 +1,42 @@
-<p>card works!</p>
+<h2>{{ title }}</h2>
+<p *ngIf="showP; else notAngular">Angular is an awesome tool! It provides 1001 ways to work with Front-end.</p>
+<ng-template #notAngular>
+  <p>Well, Angular is not so great. It's clunky, unintuitive and unfriendly for beginners.</p>
+</ng-template>
+<br>
+
+<h3>Products:</h3>
+<ul>
+  <li *ngFor="let product of products; let i = index">
+    {{ product }}    
+    <button (click)="remove(i)">x</button>
+  </li>
+  <br>
+  <input type="text" (input)="inputProducts = $any($event.target).value" (keydown.enter)="enterKey($event)" />
+  <button (click)="add()">Add</button>
+</ul>
+<br>
+
+<div [ngSwitch]="menuType">
+  <div *ngSwitchDefault>
+    <ul>
+      <li>Profile Edit</li>
+      <li>Add Card</li>
+    </ul>
+  </div>
+  <div *ngSwitchCase="'admin'">
+    <ul>
+      <li>Profile Edit</li>
+      <li>Add Card</li>
+      <li>Manage Users</li>
+    </ul>
+  </div>
+  <div *ngSwitchCase="'superuser'">
+    <ul>
+      <li>Profile Edit</li>
+      <li>Add Card</li>
+      <li>Manage Users</li>
+      <li>Manage Admins</li>
+    </ul>
+  </div>
+</div>
