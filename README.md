@@ -41,7 +41,11 @@
 
 #### Bloco 1 - Single Page Application:
 
-- [ ] [Seção 1: _Diretivas_]()
+- [X] [Seção 1: _Diretivas_](https://github.com/TiLourinho/dio-angular/tree/main/03%20-%20Single%20Page%20Application%20com%20Angular/Bloco%2001%20-%20Single%20Page%20Application/Se%C3%A7%C3%A3o%2001%20-%20Diretivas)
+
+#### Bloco 2 - Módulos Angular:
+
+- [ ] [Seção 1: _Módulos_]()
 
 <hr>
 <a href="https://www.dio.me/">
