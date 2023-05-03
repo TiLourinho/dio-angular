@@ -45,7 +45,15 @@
 
 #### Bloco 2 - Módulos Angular:
 
-- [ ] [Seção 1: _Módulos_]()
+- [X] [Seção 1: _Módulos_](https://github.com/TiLourinho/dio-angular/tree/main/03%20-%20Single%20Page%20Application%20com%20Angular/Bloco%2002%20-%20M%C3%B3dulos%20Angular/Se%C3%A7%C3%A3o%2001%20-%20M%C3%B3dulos)
+
+#### Bloco 3 - Desafios de Código:
+
+- [ ] [_Desafios Finais JavaScript_]()
+
+#### Bloco 4 - Desafio de Projeto:
+
+- [ ] [_Criando um Blog com Angular_]()
 
 <hr>
 <a href="https://www.dio.me/">
