@@ -49,7 +49,7 @@
 
 #### Bloco 3 - Desafios de Código:
 
-- [ ] [_Desafios Finais JavaScript_]()
+- [X] [_Desafios Finais JavaScript_]()
 
 #### Bloco 4 - Desafio de Projeto:
 
